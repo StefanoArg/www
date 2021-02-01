@@ -1,0 +1,20 @@
+.text{
+    text-align:center;
+}
+.padding{
+    padding:5px;
+    width:100%;
+}
+.padding-column{
+    padding: 0 !important;
+}
+.text1{
+    font-family: "Berlin Sans FB", serif;
+    font-size:17px;
+    color:black;
+}
+body {
+    background-image: url("https://images5.alphacoders.com/404/404647.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
