@@ -1,0 +1,73 @@
+h1{
+    color: white;
+    font-size: 30 px;
+    text-align: center;
+    font-style: italic;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    border: solid 4px purple;
+
+}
+
+.container-fluid{
+    border-style: solid;
+    border-size: 3px;
+    color: black;
+
+}
+
+
+b{
+    color: darkslategrey;
+}
+
+.div{
+    border: 6px purple solid
+
+
+}
+
+h5{
+    color: hotpink ;
+    font-family: Verdana;
+    text-align: center;
+    font-style: italic;
+    font-size: 120%;
+}
+
+
+ul{
+    color: pink ;
+    font-family: Verdana;
+    text-align: left;
+    font-style: italic;
+    font-size: 120%;
+}
+
+h3{
+    color: hotpink;
+    font-size: 30 px;
+    text-align: center;
+    font-style: italic;
+}
+
+h2{
+    color:white;
+    font-size: 30 px;
+    text-align: center;
+    font-style: italic;
+}
+
+
+p{
+    color: darkslategrey ;
+    font-family: Verdana;
+    text-align: center;
+    font-style: italic;
+    font-size: 90%;
+}
